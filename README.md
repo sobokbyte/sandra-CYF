@@ -1,4 +1,5 @@
 # sandra-CYF
 Github CYF Task
-[index.html](https://github.com/user-attachments/files/29362011/index.html)
-[style.css](https://github.com/user-attachments/files/29362013/style.css)
+This is my first attempt at publishing a webpage on Git.[style.css](https://github.com/user-attachments/files/29362325/style.css)
+[index.html](https://github.com/user-attachments/files/29362324/index.html)
+
