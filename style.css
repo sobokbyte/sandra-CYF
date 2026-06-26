@@ -1,0 +1,67 @@
+body {
+  background-color: #dbfcf8;
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+li {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.Intro {
+  color: #171cb3;
+}
+
+.Visit {
+  color: #a617a6;
+}
+
+.Places {
+  color: #3e911d;
+}
+
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  border: 4px solid #0b5d1e;
+  border-radius: 6px;
+  width: 550px;
+  height: 480px;
+}
+
+h1 {
+  color: green;
+  font-family: "Georgia", serif;
+  font-size: 42px;
+}
+
+h2 {
+  font-family: "Georgia", serif;
+  font-size: 36px;
+}
+
+h3 {
+  font-family: "Georgia", serif;
+  font-size: 28px;
+}
+
+.section {
+  margin-bottom: 30px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 8px;
+}
+
+.highlight {
+  background-color: lightblue;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
